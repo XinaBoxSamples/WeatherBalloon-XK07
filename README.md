@@ -1,6 +1,5 @@
 # FlatSat-XK07
-<img src="https://cdn.shopify.com/s/files/1/1734/1465/products/XK07_1800x1800.jpg?v=1538156465" width="35%" height="auto" align="right">
-https://cdn.shopify.com/s/files/1/1734/1465/products/XK07_1800x1800.jpg?v=1538156465
+<img src=https://cdn.shopify.com/s/files/1/1734/1465/products/XK07_1800x1800.jpg?v=1538156465" width="35%" height="auto" align="right">
 Firmware Files for the XK07 (CW01 and CS11)
 
 **Watch this [YouTube video](https://youtu.be/zKqtNKpamCc)**
